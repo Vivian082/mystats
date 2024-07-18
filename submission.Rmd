@@ -1,0 +1,20 @@
+---
+title: "Exercise 1 Submission"
+author: 
+  - "Zhengyuan.Yang - 12807693"
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+## Funktion Beschreiben
+
+Mein R-Paket enthält zwei Funktionen, eine zum Berechnen des Mittelwerts und der Standardabweichung und eine andere zum Berechnen der zusammenfassenden Statistik der Daten. Ich habe diese Funktionen ausgewählt, weil sie in der Datenanalyse sehr häufig verwendet werden
+
+## GitHub Repositoryn URL
+
+[https://github.com/Vivian082/mystats](https://github.com/Vivian082/mystats)
+
+## Funtionen Stellen
+
+```R
+remotes::install_github("Vivian082/mystats")
